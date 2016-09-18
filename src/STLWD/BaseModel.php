@@ -6,7 +6,7 @@ class STLWD_BaseModel
 
 	function __construct()
 	{
-		$this->conn = mysqli_connect('localhost', 'root', '', 'stlwd');	
+		$this->conn = mysqli_connect('localhost', 'username', '', 'password');	
 
 		if( !$this->conn )
 		{
