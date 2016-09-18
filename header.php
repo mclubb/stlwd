@@ -17,7 +17,6 @@
 <div id="wrapper">
   <div id="navigation">
     <div class="nav_links">
-	<span>DEV</span>
 	<span>Home</span>
 	<span>About</span>
 	<span>Contact Us</span>
