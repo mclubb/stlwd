@@ -24,8 +24,8 @@
 	<div class="social">
 		<div class="section_header"><h1>Social Networks</h1></div>
 		<div class="card_container">
-		<div class="card"><span class="dashicons dashicons-facebook dicons">&nbsp;</span></div>
-		<div class="card"><span class="dashicons dashicons-twitter dicons">&nbsp;</span></div>
+		<div class="card"><a href="https://www.facebook.com/stlwd"><span class="dashicons dashicons-facebook dicons">&nbsp;</span></a></div>
+		<div class="card"><a href="https://twitter.com/stlwd"><span class="dashicons dashicons-twitter dicons">&nbsp;</span></a></div>
 		<div class="card"><span class="dashicons dashicons-googleplus dicons">&nbsp;</span></div>
 		</div>
 	</div>
