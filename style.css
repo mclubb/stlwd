@@ -1,0 +1,109 @@
+body {
+	margin: 0 0;
+}
+
+h1 {
+	margin: 0;
+}
+
+#navigation {
+	background-color:#00ADF1;
+	min-height: 30px;
+}
+
+.nav_links {
+	float: right;
+	padding-top: 5px;
+}
+
+.nav_links span {
+	color: #fff;
+	margin-right: 15px;
+}
+
+#header {
+	padding-top: 250px;
+	text-align: center;
+	width: 100%;
+	height: 400px;
+}
+
+#header img {
+	filter: invert(100%);
+}
+
+#main {
+	background-color: #f1f1f1;
+}
+
+.whatwedo {
+	min-height: 400px;
+	background-color: #fff;
+	padding: 25px;
+}
+
+.whatwedo h1 {
+	color: #00ADF1;
+	padding-bottom: 25px;
+}
+
+.capabilities {
+	min-height: 250px;
+	padding: 25px;
+}
+.featured {
+	min-height: 400px;	
+	background-color:#00ADF1; 
+	padding: 25px;
+}
+
+.featured h1 {
+	color: #FFF;
+	padding-bottom: 25px;
+}
+
+.blog {
+	min-height: 250px;
+	padding: 15px;
+	background-color:#00ADF1; 
+}
+.social {
+	min-height: 400px;
+	padding: 15px;
+}
+
+.social h1 {
+	color: #00ADF1;
+	padding-bottom: 25px;
+}
+
+.card_container, .section_header {
+	margin: 0 auto;
+	width: 1200px;
+}
+.card_container::after, .whatwedo::after, .featured::after {
+	clear:both;
+}
+.card {
+	width: 370px;
+	height: 300px;
+	margin-right: 20px;
+	float: left;
+	text-align:center;
+}
+.card img {
+	display: block;
+	width: 100%;
+	height: 280px;
+}
+
+.card span {
+	position: relative;
+	bottom: 0;
+}
+
+.dicons {
+	font-size: 256px;
+	margin-left: -240px;
+	margin-top: 30px;
+}
