@@ -102,8 +102,9 @@ h1 {
 	bottom: 0;
 }
 
-.card a:active {
+.card a {
 	color: #000;
+	text-decoration: none;
 }
 
 .dicons {
